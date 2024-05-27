@@ -1,4 +1,4 @@
-# Contact Management App
+# 📲 Taiyoo Application Developed by Akhilesh
 
 Welcome to our Contact Management Application, a robust frontend solution designed to streamline your contact organization. With this app, users can effortlessly create, view, edit, and delete contacts.
 
@@ -6,17 +6,14 @@ Additionally, the application features a dedicated Charts and Maps section, prov
 
 Our app also includes a comprehensive landing page that serves as your gateway to the contact management features and the interactive charts and maps.
 
-## Things to Know
 
-This project was implemented with react typescript library. It makes use of TailwindCSS, React Router v6, redux, axios, and React Query. The objectives of this application include:
+# 🤩 Main Features of this Contacts Page :-
 
-### Objectives for Contacts Page
-
-- The app should have a form for adding new contacts
-- The app should display a list of all added contacts
-- Each contact should have a button to view the contacts details
-- The app should be able to edit and delete contacts
-- Make use of Redux to store the contact data
+The application should feature a form for creating new contacts.
+The application should present a list of all the contacts that have been added.
+Each contact should include a button to view its detailed information.
+The application should support the ability to modify and remove contacts.
+Implement Redux to manage the contact data storage.
 
 ### Objectives for Charts and Maps Page
 
