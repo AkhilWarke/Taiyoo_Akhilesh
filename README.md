@@ -1,11 +1,10 @@
 # Contact Management App
 
-This is a frontend implementation of a contact management app, which enables a user to create new contacts, view contacts list, edit contact, and delete contact. This implementation also includes a Charts and Maps view which shows the user covid-19 cases fluctuations over a period of 1/22/20 to 3/9/23.
+Welcome to our Contact Management Application, a robust frontend solution designed to streamline your contact organization. With this app, users can effortlessly create, view, edit, and delete contacts.
 
-This also includes a landing page for the application, which includes buttons redirecting to the contact page and the charts and maps page.
+Additionally, the application features a dedicated Charts and Maps section, providing insightful visualizations of COVID-19 case trends from January 22, 2020, to March 9, 2023.
 
-You can access the live application by visiting the URL:
-https://contact-mgmt-app.vercel.app/
+Our app also includes a comprehensive landing page that serves as your gateway to the contact management features and the interactive charts and maps.
 
 ## Things to Know
 
