@@ -15,9 +15,12 @@ Each contact should include a button to view its detailed information.
 The application should support the ability to modify and remove contacts.
 Implement Redux to manage the contact data storage.
 
-#Snapshots of Application :-
+###Snapshots of Application :-
 ## Contact Page 
 <img width="919" alt="Screenshot 2024-05-27 125425" src="https://github.com/AkhilWarke/Taiyoo_Akhilesh/assets/139999018/29ad0480-a5c6-4b66-b995-f178e70720fa">
+
+## Charts and Maps 
+<img width="914" alt="S2" src="https://github.com/AkhilWarke/Taiyoo_Akhilesh/assets/139999018/ded64775-08b9-407a-a7de-efbb02b314dc">
  
 
 
