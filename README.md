@@ -15,6 +15,9 @@ Each contact should include a button to view its detailed information.
 The application should support the ability to modify and remove contacts.
 Implement Redux to manage the contact data storage.
 
+#Snapshots of Application :-
+
+
 ### Objectives for Charts and Maps Page
 
 - The app should have a form for adding new contacts
@@ -29,9 +32,6 @@ The `api` which will contain the API layer of the application. It will have meth
 
 The APIs used in this application include
 
-#### Charts and Maps API
-
-- Base URL: https://disease.sh/v3/covid-19
 
 Endpoints
 
